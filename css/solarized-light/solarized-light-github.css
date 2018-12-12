@@ -971,3 +971,9 @@ svg > * text {
 .deletions {
   color: #dc322f !important;
 }
+.octotree_views {
+  background-color: #fdf6e3 !important;
+}
+.octotree_view_header {
+  background-color: #eee8d5 !important;
+}
