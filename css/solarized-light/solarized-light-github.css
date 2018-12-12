@@ -974,3 +974,9 @@ svg > * text {
 .HeaderNavlink {
   color: #586e75 !important;
 }
+.octotree_views {
+  background-color: #fdf6e3 !important;
+}
+.octotree_view_header {
+  background-color: #eee8d5 !important;
+}
