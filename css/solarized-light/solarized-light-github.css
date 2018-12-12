@@ -971,3 +971,6 @@ svg > * text {
 .deletions {
   color: #dc322f !important;
 }
+.HeaderNavlink {
+  color: #586e75 !important;
+}

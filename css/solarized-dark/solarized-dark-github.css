@@ -971,3 +971,6 @@ svg > * text {
 .deletions {
   color: #dc322f !important;
 }
+.pl-pds, .pl-s, .pl-s .pl-pse .pl-s1, .pl-sr, .pl-sr .pl-cce, .pl-sr .pl-sra, .pl-sr .pl-sre {
+  color: #e79ca8 !important;
+}
